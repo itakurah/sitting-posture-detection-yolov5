@@ -40,7 +40,7 @@ We are pleased to announce that this project has been published in an IEEE confe
 If you have an NVIDIA graphics processor, you can activate GPU acceleration by installing the GPU requirements. Note that without GPU acceleration, the inference will run on the CPU, which can be very slow.  
 #### Windows  
   
-1. `git clone https://github.com/itakurah/SittingPostureDetection.git`  
+1. `git clone https://github.com/itakurah/sitting-posture-detection-yolov5.git`  
 2. `python -m venv venv`  
 3. `.\venv\scripts\activate.bat`  
 ##### Default/NVIDIA GPU support:  
@@ -48,7 +48,7 @@ If you have an NVIDIA graphics processor, you can activate GPU acceleration by i
 
 #### Linux  
   
-1. `git clone https://github.com/itakurah/SittingPostureDetection.git`  
+1. `git clone https://github.com/itakurah/sitting-posture-detection-yolov5.git`  
 2. `python3 -m venv venv`  
 3. `source venv/bin/activate`
 ##### Default/NVIDIA GPU support:  
