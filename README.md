@@ -7,7 +7,6 @@
 </div>
 
 
-
 This repository provides an open-source solution for **real-time sitting posture detection** using [YOLOv5](https://github.com/ultralytics/yolov5), a state-of-the-art object detection algorithm. The program is designed to analyze a user’s sitting posture and offer feedback on whether it aligns with ergonomic best practices, aiming to promote healthier sitting habits.
 
 ## Key Features
